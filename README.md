@@ -1,8 +1,10 @@
 ### Olá, eu sou a Rebeca Facchinato! 
 
 
-- 🔭 Hoje trabalho com front-end e back-end.
-- 🌱 Estudando Python.
+- 🔭 Trabalho com front-end e back-end.
+- :snake: Estudando Python.
+- :page_with_curl: Estudando sempre para avançar o nível de conhecimento em javascript. 
+- :a: Usando Angular
 - ⚡ Adoro comer 🍕🍔🍟
 
 ##
