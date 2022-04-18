@@ -3,8 +3,8 @@
 
 - 🔭 Trabalho com front-end e back-end.
 - :snake: Estudando Python.
-- :page_with_curl: Estudando sempre para avançar o nível de conhecimento em javascript. 
-- :a: Usando Angular
+- :iphone: Estudando Pós graduação em Projetos de aplicativos móveis multiplataformas.
+- :page_with_curl: Possuo conhecimento em Angular, Javascript e Typescript.
 - ⚡ Adoro comer 🍕🍔🍟
 
 ##
