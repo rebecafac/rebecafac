@@ -5,7 +5,7 @@
 - :snake: Estudando Python.
 - :iphone: Estudando Pós graduação em Projetos de aplicativos móveis multiplataformas.
 - :page_with_curl: Possuo conhecimento em Angular, Javascript e Typescript.
-- ⚡ Adoro comer 🍕🍔🍟
+- ⚡ Adoro comer e viajar 🍔✈
 
 ##
 
