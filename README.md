@@ -1,11 +1,8 @@
 ### Olá, eu sou a Rebeca Facchinato! 
 
 
-- 🔭 Trabalho com front-end e back-end.
-- :snake: Estudando Python.
-- :iphone: Estudando Pós graduação em Projetos de aplicativos móveis multiplataformas.
-- :page_with_curl: Possuo conhecimento em Angular, Javascript e Typescript.
-- ⚡ Adoro comer e viajar 🍔✈
+- 🔭 Trabalhando com front-end e back-end.
+- Estudando ... 
 
 ##
 
@@ -26,7 +23,6 @@
   ##
  
 <div>   
-  <a href="https://www.instagram.com/rebecafac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
   <a href = "mailto:beck.fac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rebecafac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
